@@ -1,3 +1,7 @@
+## Top Commands to Know As Recommended by Chat GPT
+
+- [TOP Commands To Memorize](./top-commands-to-memorize/top-commands.md)
+
 # The Linux Basics Course
 
 These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on KodeKloud.
@@ -14,7 +18,7 @@ These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on
   - [04-Lab-Working-With-Shell](docs/02-Working-With-Shell-Part-I/04-lab-working-with-shell.md)
   - [05-Bash-Shell](docs/02-Working-With-Shell-Part-I/05-Bash-Shell.md)
   - [06-Lab-Linux-Bash-Shell](docs/02-Working-With-Shell-Part-I/06-Lab-Linux-Bash-Shell.md)
-  
+
 - [03-Linux-Core-Concepts](docs/03-Linux-Core-Concepts)
 
   - [01-Bobs-First-Team-Meeting](docs/03-Linux-Core-Concepts/01-Bobs-first-team-meeting.md)
@@ -27,7 +31,6 @@ These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on
   - [08-Filesystem-Hierarchy](docs/03-Linux-Core-Concepts/08-Filesystem-Hierarchy.md)
   - [09-Lab-Linux-RunLevels-Filesystem-Hierarchy](docs/03-Linux-Core-Concepts/09-Lab-Linux-RunLevels-Filesystem-Hierarchy.md)
 
-
 - [04-Package-Mangement](docs/04-Package-Mangement)
 
   - [01-Package-Management-Distribution](docs/04-Package-Mangement/01-Package-Management-Distribution.md)
@@ -37,10 +40,9 @@ These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on
   - [05-APT-vs-APT-GET](docs/04-Package-Mangement/05-APT-vs-APT-GET.md)
   - [06-Lab-DPKG-AND-APT](docs/04-Package-Mangement/06-Lab-DPKG-AND-APT.md)
 
-
 - [05-Working-With-Shell-Part-II](docs/05-Working-With-Shell-Part-II)
 
-  - [01-Behind-Schedule(story)](docs/05-Working-With-Shell-Part-II/01-Behind-Schedule(story).md)
+  - [01-Behind-Schedule(story)](<docs/05-Working-With-Shell-Part-II/01-Behind-Schedule(story).md>)
   - [02-File-Compression-and-Archival](docs/05-Working-With-Shell-Part-II/02-File-Compression-and-Archival.md)
   - [03-Searching-For-Files-and-Patterns](docs/05-Working-With-Shell-Part-II/03-Searching-for-files-and-patterns.md)
   - [04-IO-Redirection](docs/05-Working-With-Shell-Part-II/04-IO-Redirection.md)
@@ -50,7 +52,7 @@ These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on
 
 - [06-Security-and-File-Permissions](docs/06-Security-and-File-Permissions)
 
-  - [01-The-Security-Incident(story)](docs/06-Security-and-File-Permissions/01-The-Security-Incident(story).md)
+  - [01-The-Security-Incident(story)](<docs/06-Security-and-File-Permissions/01-The-Security-Incident(story).md>)
   - [02-Linux-Accounts](docs/06-Security-and-File-Permissions/02-Linux-Accounts.md)
   - [03-User-Management](docs/06-Security-and-File-Permissions/03-User-Management.md)
   - [04-Access-Control-Files](docs/06-Security-and-File-Permissions/04-Access-Control-Files.md)
@@ -61,7 +63,7 @@ These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on
 
 - [07-Networking](docs/07-Networking)
 
-  - [01-The-Network-Issue(story)](docs/07-Networking/01-The-Network-Issue(story).md)
+  - [01-The-Network-Issue(story)](<docs/07-Networking/01-The-Network-Issue(story).md>)
   - [02-DNS](docs/07-Networking/02-DNS.md)
   - [03-Networking-Basics](docs/07-Networking/03-Networking-Basics.md)
   - [04-Troubleshooting](docs/07-Networking/04-Troubleshooting.md)
@@ -83,6 +85,6 @@ These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on
 
 - [10-The-Client-Demonstration](docs/10-The-Client-Demonstration)
 
-  - [01-Client-Demonstration-in-Jeopardy!(story)](docs/10-The-Client-Demonstration/01-Client-Demonstration-in-Jeopardy!(story).md)
+  - [01-Client-Demonstration-in-Jeopardy!(story)](<docs/10-The-Client-Demonstration/01-Client-Demonstration-in-Jeopardy!(story).md>)
   - [02-Troubleshoot-the-Development-Environment](docs/10-The-Client-Demonstration/02-Troubleshoot-the-Development-Environment.md)
-  - [03-Finale(story)](docs/10-The-Client-Demonstration/03-Finale(story).md)
+  - [03-Finale(story)](<docs/10-The-Client-Demonstration/03-Finale(story).md>)
